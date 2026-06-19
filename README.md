@@ -5,10 +5,10 @@ I enjoy building clean interfaces, improving accessibility, and turning ideas in
 
 ## 🚀 About Me
 
-- 💡 Focused on web development and user-centered design  
-- 🛠️ Interested in frontend architecture, performance, and maintainable code  
-- 📱 Passionate about creating responsive and accessible applications  
-- 📚 Always learning new technologies and improving my skills
+-  Focused on web development and user-centered design  
+-  Interested in frontend architecture, performance, and maintainable code  
+-  Passionate about creating responsive and accessible applications  
+-  Always learning new technologies and improving my skills
 
 ## 🧰 Tech Stack
 
