@@ -34,7 +34,7 @@ Visit my portfolio to explore my projects and experience:
 
 ## 📫 Connect
 
-- Email: your-email@example.com
+- Email: bagdiana03@gmail.com
 - LinkedIn: [Diana Bautista](https://www.linkedin.com/in/dianalaurabautistagarcia/)
 - Portfolio: [Visit my site](https://portafolio-frontend-8w82.vercel.app/)
 
